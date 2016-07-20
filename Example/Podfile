@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HFUtility_Tests' do
+  pod 'HFUtility', :path => '../'
+  
+  
+end
