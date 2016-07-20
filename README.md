@@ -22,7 +22,7 @@ pod "HFUtility"
 
 ## Author
 
-., .
+DragonCherry, dragoncherry@naver.com
 
 ## License
 
